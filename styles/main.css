@@ -1,0 +1,56 @@
+.containerN{
+    background-color: #00494d;
+    padding: 10px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.foto{
+    margin-top: 20px;
+    padding-left: 5%;
+    width: 300px;
+}
+
+.container{
+    background-color: #d1ddd1;
+    padding: 1px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.container2{
+    background-color: #d1ddd1;
+    padding: 1px;
+    border-radius: 20px 20px;
+}
+
+.title {
+    font-family: sans-serif;
+    color: #00494d;
+    font-size: 2rem;
+    padding-left: 3rem;
+
+}
+
+.text{
+    font-family: serif;
+    color: #646464;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+}
+
+.textc{
+    font-family: serif;
+    color: #646464;
+    font-size: 1.5rem;
+}
+
+.textT{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 1rem;
+}
+
+.textb{
+    font-family: sans-serif;
+    color: white;
+    font-size: 2rem;
+}
